@@ -14,7 +14,7 @@ About the game:
 the game is about 2 characters the ship and the monster.
 you have to avoid touching monsters.
 there are 2 counters at the top left of the game it says the score.
-the background is in space(vacume)
+the background is in space(vacume).
 if you win or lose the game will restart in less than a secound.
 there are sounds in the game.
 
